@@ -1,0 +1,18 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules/
+
+# VS Code
+.vscode
+!.vscode/tasks.js
+
+# Misc
+.DS_Store
+
+# TS compiled
+lib/
+
